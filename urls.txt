@@ -1,0 +1,5 @@
+#hash for comments like below
+#https://mirrors.lolinet.com/software/this/is/comment/
+
+https://mirrors.lolinet.com/
+
